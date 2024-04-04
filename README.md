@@ -8,7 +8,7 @@ This Repository on GitHub, a comprehensive collection of JSON datasets meticulou
 4. [Products Dataset](https://raw.githubusercontent.com/cloudacademy/ca-sample-sales-data/master/products.json)
 5. [Sales Dataset](https://raw.githubusercontent.com/cloudacademy/ca-sample-sales-data/master/sales.json)
 
-However, **it's important to note that the raw data contained trailing data and extra whitespace issues within the above JSON files.** To ensure data integrity and usability, Kundan Kumar undertook the task of transforming and cleaning the datasets. Subsequently, **the cleaned datasets were uploaded to this repository for easy access and use by individuals interested in studying global sales patterns and trends.**
+However, **it's important to note that the raw data contained trailing data and extra whitespace issues within the above JSON files.** To ensure data integrity and usability, Kundan-Rwanda undertook the task of transforming and cleaning the datasets. Subsequently, **the cleaned datasets were uploaded to this repository for easy access and use by individuals interested in studying global sales patterns and trends.**
 
 # Purpose:
 
